@@ -1,0 +1,81 @@
+{
+    "data": [
+      {
+        "created_at": "2022-01-29T03:44:59.000Z",
+        "text": "There is no tsunami threat to New Zealand following the M6.4 KERMADEC ISLANDS REGION earthquake. Based on current information, the assessment is that the earthquake is unlikely to have caused a tsunami that will pose a threat to New Zealand.",
+        "id": "1487270521138184193",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-29T03:30:46.000Z",
+        "text": "The National Emergency Management Agency and scientific advisors are still assessing whether any other tsunami activity is expected, such as strong and unusual currents and unpredictable surges at the shore. We will provide an update as soon as the assessment is complete.",
+        "id": "1487266946928328704",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-29T03:29:50.000Z",
+        "text": "Coastal inundation (flooding of land areas) is not expected following the KERMADEC ISLANDS REGION earthquake. People do not need to evacuate unless directly advised by local civil defence authorities.",
+        "id": "1487266711959400449",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-29T03:10:31.000Z",
+        "text": "Go to https://t.co/ccVFYR8001 for the most up to date information",
+        "id": "1487261850857263105",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-29T03:07:45.000Z",
+        "text": "We are assessing whether the M6.6 KERMADEC ISLANDS REGION earthquake at 2022-01-29 3:46 PM has created a tsunami that could affect New Zealand. We will provide an update as soon as the initial assessment has been completed.",
+        "id": "1487261151897341952",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-22T23:45:40.000Z",
+        "text": "RT @covid19nz: All of New Zealand will move to Red at 11.59pm tonight, 23 January, in order to slow down and manage the spread of Omicron i…",
+        "id": "1485035970819162112",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-18T00:12:12.000Z",
+        "text": "Strong currents can injure and drown people. Take care and remain vigilant if you are in or near the water close to the shore (including swimming, surfing, fishing, small boats).",
+        "id": "1483230705933234176",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-18T00:11:49.000Z",
+        "text": "The latest scientific advice is that strong and unusual currents following the weekend's tsunami are expected to last for at least another 24 hours. This particularly applies to the East Coast of the North and South islands, and the South and West coasts of the South Island.",
+        "id": "1483230611779493893",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-17T01:45:00.000Z",
+        "text": "Current advice is that strong and unusual currents are expected to continue until the volcanic activity in Tonga ends and then potentially for a few days afterwards. Take care if you are in or near the water close to the shore (including swimming, surfing, fishing, small boats).",
+        "id": "1482891675702018048",
+        "author_id": "106554518"
+      },
+      {
+        "created_at": "2022-01-16T06:06:30.000Z",
+        "text": "The National Advisory: Tsunami Activity issued following the large eruption in Tonga is cancelled. Strong and unusual currents and unpredictable surges will continue in places for up to another 24 hours. People should remain vigilant and take extra precautions at the coast.",
+        "id": "1482595093647343617",
+        "author_id": "106554518"
+      }
+    ],
+    "includes": {
+      "users": [
+        {
+          "id": "106554518",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/683808884/CivilDefenceCDlogo_normal.png",
+          "username": "NZcivildefence",
+          "name": "National Emergency Management Agency"
+        }
+      ]
+    },
+    "meta": {
+      "oldest_id": "1482595093647343617",
+      "newest_id": "1487270521138184193",
+      "result_count": 10,
+      "next_token": "7140dibdnow9c7btw3z450lcetbz9pzoowak53hn36omv"
+    }
+  }
+  
